@@ -82,5 +82,5 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url('img/check.png'); /* check */
+    background-image: url('img/check.png');   /* check */
 }
